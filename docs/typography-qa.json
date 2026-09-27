@@ -1,0 +1,2449 @@
+{
+  "summary": {
+    "stage": "after",
+    "conditions": 42,
+    "affectedConditions": 0,
+    "wrappedControls": 0,
+    "smallText": 0,
+    "underline": 0,
+    "overflow": 0
+  },
+  "pages": [
+    {
+      "route": "/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "LT\nINTERIOR\n나답게 머무는 집",
+          "selector": "h1.hero-heading",
+          "size": 48,
+          "spacing": "-0.24px",
+          "leading": "47.04px"
+        },
+        {
+          "text": "취향을\n담은 공간",
+          "selector": "h2.selected-heading",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "취향을 담아,\n오래도록 편안하게.",
+          "selector": "h2.section-title.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "당신의 취향으로 시작해,\n오래 좋아할 공간으로.",
+          "selector": "h3",
+          "size": 23,
+          "spacing": "-0.46px",
+          "leading": "33.35px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "머물고 싶은\n나만의 공간.",
+          "selector": "h1.display-title.reveal",
+          "size": 38,
+          "spacing": "-1.14px",
+          "leading": "47.5px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/about/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "당신의 일상을\n닮은 집.",
+          "selector": "h1.display-title.reveal",
+          "size": 38,
+          "spacing": "-1.14px",
+          "leading": "47.5px"
+        },
+        {
+          "text": "당신의 취향을 담아,\n시간이 지나도 좋은 집.",
+          "selector": "h2.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "43.2px"
+        },
+        {
+          "text": "취향에서 시작합니다.",
+          "selector": "h2",
+          "size": 22,
+          "spacing": "-0.33px",
+          "leading": "30.8px"
+        },
+        {
+          "text": "시간을 생각합니다.",
+          "selector": "h2",
+          "size": 22,
+          "spacing": "-0.33px",
+          "leading": "30.8px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/contact/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "바라던 집을,\n함께 그려요.",
+          "selector": "h1.display-title.reveal",
+          "size": 38,
+          "spacing": "-1.14px",
+          "leading": "47.5px"
+        },
+        {
+          "text": "카카오톡 상담",
+          "selector": "h2",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "전화 상담",
+          "selector": "h2",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "이런 이야기를\n함께 나눠요.",
+          "selector": "h2",
+          "size": 27,
+          "spacing": "-0.54px",
+          "leading": "37.8px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "햇살을 담은 집",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "빛이 머무는 자리, 나무의 온기.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "부드러운 여백",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "부드러운 색으로 완성한 여유.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "포근한 일상",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "손끝에 닿는 질감까지 편안하게.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "한국의 온기",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "익숙한 온기를, 오늘의 공간에.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "단정한 균형",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "단정한 선, 흔들림 없는 균형.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "고요한 대비",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "선명한 대비 속에 머무는 고요.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "도시의 여유",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "도시의 일상에, 차분한 깊이.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "깊은 쉼",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "하루의 끝에 만나는 깊은 안락함.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "빛이 머무는 밤",
+          "selector": "h1.detail-title.reveal",
+          "size": 36,
+          "spacing": "-1.08px",
+          "leading": "45px"
+        },
+        {
+          "text": "짙은 소재 위로 번지는 빛.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 36,
+          "spacing": "-0.9px",
+          "leading": "46.8px"
+        }
+      ]
+    },
+    {
+      "route": "/missing-page/",
+      "width": 320,
+      "scrollWidth": 320,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "페이지를\n찾을 수 없어요.",
+          "selector": "h1.display-title.reveal",
+          "size": 38,
+          "spacing": "-1.14px",
+          "leading": "47.5px"
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "LT\nINTERIOR\n나답게 머무는 집",
+          "selector": "h1.hero-heading",
+          "size": 75.264,
+          "spacing": "-0.37632px",
+          "leading": "73.7587px"
+        },
+        {
+          "text": "취향을담은 공간",
+          "selector": "h2.selected-heading",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "취향을 담아,\n오래도록 편안하게.",
+          "selector": "h2.section-title.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "당신의 취향으로 시작해,\n오래 좋아할 공간으로.",
+          "selector": "h3",
+          "size": 23,
+          "spacing": "-0.46px",
+          "leading": "33.35px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "머물고 싶은\n나만의 공간.",
+          "selector": "h1.display-title.reveal",
+          "size": 42.24,
+          "spacing": "-1.2672px",
+          "leading": "52.8px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/about/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "당신의 일상을\n닮은 집.",
+          "selector": "h1.display-title.reveal",
+          "size": 42.24,
+          "spacing": "-1.2672px",
+          "leading": "52.8px"
+        },
+        {
+          "text": "당신의 취향을 담아,\n시간이 지나도 좋은 집.",
+          "selector": "h2.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "43.2px"
+        },
+        {
+          "text": "취향에서 시작합니다.",
+          "selector": "h2",
+          "size": 22,
+          "spacing": "-0.33px",
+          "leading": "30.8px"
+        },
+        {
+          "text": "시간을 생각합니다.",
+          "selector": "h2",
+          "size": 22,
+          "spacing": "-0.33px",
+          "leading": "30.8px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/contact/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "바라던 집을,\n함께 그려요.",
+          "selector": "h1.display-title.reveal",
+          "size": 42.24,
+          "spacing": "-1.2672px",
+          "leading": "52.8px"
+        },
+        {
+          "text": "카카오톡 상담",
+          "selector": "h2",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "전화 상담",
+          "selector": "h2",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "이런 이야기를\n함께 나눠요.",
+          "selector": "h2",
+          "size": 27,
+          "spacing": "-0.54px",
+          "leading": "37.8px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 32,
+          "spacing": "-0.8px",
+          "leading": "41.6px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "햇살을 담은 집",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "빛이 머무는 자리, 나무의 온기.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "부드러운 여백",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "부드러운 색으로 완성한 여유.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "포근한 일상",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "손끝에 닿는 질감까지 편안하게.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "한국의 온기",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "익숙한 온기를, 오늘의 공간에.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "단정한 균형",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "단정한 선, 흔들림 없는 균형.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "고요한 대비",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "선명한 대비 속에 머무는 고요.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "도시의 여유",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "도시의 일상에, 차분한 깊이.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "깊은 쉼",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "하루의 끝에 만나는 깊은 안락함.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "빛이 머무는 밤",
+          "selector": "h1.detail-title.reveal",
+          "size": 46.08,
+          "spacing": "-1.3824px",
+          "leading": "57.6px"
+        },
+        {
+          "text": "짙은 소재 위로 번지는 빛.",
+          "selector": "h2.reveal",
+          "size": 18,
+          "spacing": "normal",
+          "leading": "29.7px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 26,
+          "spacing": "-0.52px",
+          "leading": "36.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 38,
+          "spacing": "-0.95px",
+          "leading": "49.4px"
+        }
+      ]
+    },
+    {
+      "route": "/missing-page/",
+      "width": 768,
+      "scrollWidth": 768,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "페이지를\n찾을 수 없어요.",
+          "selector": "h1.display-title.reveal",
+          "size": 42.24,
+          "spacing": "-1.2672px",
+          "leading": "52.8px"
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "LT\nINTERIOR\n나답게 머무는 집",
+          "selector": "h1.hero-heading",
+          "size": 109.56,
+          "spacing": "-0.5478px",
+          "leading": "107.369px"
+        },
+        {
+          "text": "취향을\n담은 공간",
+          "selector": "h2.selected-heading",
+          "size": 54.72,
+          "spacing": "-1.368px",
+          "leading": "71.136px"
+        },
+        {
+          "text": "취향을 담아,\n오래도록 편안하게.",
+          "selector": "h2.section-title.reveal",
+          "size": 54.72,
+          "spacing": "-1.368px",
+          "leading": "71.136px"
+        },
+        {
+          "text": "당신의 취향으로 시작해,\n오래 좋아할 공간으로.",
+          "selector": "h3",
+          "size": 28.8,
+          "spacing": "-0.576px",
+          "leading": "41.76px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 54.72,
+          "spacing": "-1.368px",
+          "leading": "71.136px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "머물고 싶은\n나만의 공간.",
+          "selector": "h1.display-title.reveal",
+          "size": 79.2,
+          "spacing": "-2.376px",
+          "leading": "99px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/about/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "당신의 일상을\n닮은 집.",
+          "selector": "h1.display-title.reveal",
+          "size": 79.2,
+          "spacing": "-2.376px",
+          "leading": "99px"
+        },
+        {
+          "text": "당신의 취향을 담아,\n시간이 지나도 좋은 집.",
+          "selector": "h2.reveal",
+          "size": 59.04,
+          "spacing": "-1.476px",
+          "leading": "79.704px"
+        },
+        {
+          "text": "취향에서 시작합니다.",
+          "selector": "h2",
+          "size": 26.64,
+          "spacing": "-0.3996px",
+          "leading": "37.296px"
+        },
+        {
+          "text": "시간을 생각합니다.",
+          "selector": "h2",
+          "size": 26.64,
+          "spacing": "-0.3996px",
+          "leading": "37.296px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 54.72,
+          "spacing": "-1.368px",
+          "leading": "71.136px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/contact/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "바라던 집을,\n함께 그려요.",
+          "selector": "h1.display-title.reveal",
+          "size": 79.2,
+          "spacing": "-2.376px",
+          "leading": "99px"
+        },
+        {
+          "text": "카카오톡 상담",
+          "selector": "h2",
+          "size": 24.48,
+          "spacing": "-0.3672px",
+          "leading": "34.272px"
+        },
+        {
+          "text": "전화 상담",
+          "selector": "h2",
+          "size": 24.48,
+          "spacing": "-0.3672px",
+          "leading": "34.272px"
+        },
+        {
+          "text": "이런 이야기를\n함께 나눠요.",
+          "selector": "h2",
+          "size": 31.68,
+          "spacing": "-0.6336px",
+          "leading": "44.352px"
+        },
+        {
+          "text": "집이 완성되는\n여섯 단계.",
+          "selector": "h2.section-title.reveal",
+          "size": 54.72,
+          "spacing": "-1.368px",
+          "leading": "71.136px"
+        },
+        {
+          "text": "상담",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "현장 실측",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "설계·견적",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "계약",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "시공",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        },
+        {
+          "text": "완공·사후관리",
+          "selector": "h3",
+          "size": 21,
+          "spacing": "-0.315px",
+          "leading": "29.4px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "햇살을 담은 집",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "빛이 머무는 자리, 나무의 온기.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "부드러운 여백",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "부드러운 색으로 완성한 여유.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "포근한 일상",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "손끝에 닿는 질감까지 편안하게.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "한국의 온기",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "익숙한 온기를, 오늘의 공간에.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "단정한 균형",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "단정한 선, 흔들림 없는 균형.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "고요한 대비",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "선명한 대비 속에 머무는 고요.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "도시의 여유",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "도시의 일상에, 차분한 깊이.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "깊은 쉼",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "하루의 끝에 만나는 깊은 안락함.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "빛이 머무는 밤",
+          "selector": "h1.detail-title.reveal",
+          "size": 86.4,
+          "spacing": "-2.592px",
+          "leading": "108px"
+        },
+        {
+          "text": "짙은 소재 위로 번지는 빛.",
+          "selector": "h2.reveal",
+          "size": 22.32,
+          "spacing": "normal",
+          "leading": "36.828px"
+        },
+        {
+          "text": "소재의 조합",
+          "selector": "h3",
+          "size": 13,
+          "spacing": "normal",
+          "leading": "19.5px"
+        },
+        {
+          "text": "함께하는\n일상의 중심.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "하루를 내려놓는\n고요한 공간.",
+          "selector": "h2",
+          "size": 33.12,
+          "spacing": "-0.6624px",
+          "leading": "46.368px"
+        },
+        {
+          "text": "당신의 집,\n함께 그려요.",
+          "selector": "h2.reveal",
+          "size": 69.12,
+          "spacing": "-1.728px",
+          "leading": "89.856px"
+        }
+      ]
+    },
+    {
+      "route": "/missing-page/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "small": [],
+      "underline": [],
+      "linkLines": [],
+      "overflow": [],
+      "wrappedControls": [],
+      "titles": [
+        {
+          "text": "페이지를\n찾을 수 없어요.",
+          "selector": "h1.display-title.reveal",
+          "size": 79.2,
+          "spacing": "-2.376px",
+          "leading": "99px"
+        }
+      ]
+    }
+  ]
+}

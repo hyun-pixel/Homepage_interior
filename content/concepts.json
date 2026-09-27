@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "oak-light",
+    "name": "햇살을 담은 집",
+    "category": "warm",
+    "categoryName": "밝고 따뜻한",
+    "number": "01",
+    "line": "빛이 머무는 자리, 나무의 온기.",
+    "description": "햇빛이 들어오는 방향을 따라 밝은 오크와 흰색를 이어갑니다. 덜어낸 공간에 일상의 편안함을 채우는 디자인입니다.",
+    "materials": [
+      "밝은 오크",
+      "흰색 도장",
+      "리넨 직물"
+    ],
+    "colors": [
+      "#d4bb95",
+      "#f3f0e9",
+      "#b6ae9e"
+    ]
+  },
+  {
+    "slug": "ivory-calm",
+    "name": "부드러운 여백",
+    "category": "warm",
+    "categoryName": "밝고 따뜻한",
+    "number": "02",
+    "line": "부드러운 색으로 완성한 여유.",
+    "description": "아이보리와 밝은 석재의 은은한 결이 공간을 감쌉니다. 둥근 가구와 정돈된 동선으로 시선과 생활이 자연스럽게 흐릅니다.",
+    "materials": [
+      "아이보리 석재",
+      "크림색 직물",
+      "무광 도장"
+    ],
+    "colors": [
+      "#e6ded0",
+      "#c7bbaa",
+      "#f6f3ed"
+    ]
+  },
+  {
+    "slug": "linen-home",
+    "name": "포근한 일상",
+    "category": "warm",
+    "categoryName": "밝고 따뜻한",
+    "number": "03",
+    "line": "손끝에 닿는 질감까지 편안하게.",
+    "description": "샌드 베이지와 리넨의 담백한 질감을 모았습니다. 매일의 작은 물건과 생활의 흔적이 자연스럽게 어울리는 집을 제안합니다.",
+    "materials": [
+      "리넨",
+      "자연스러운 나뭇결",
+      "샌드 베이지"
+    ],
+    "colors": [
+      "#d7c7af",
+      "#eee7dd",
+      "#af9577"
+    ]
+  },
+  {
+    "slug": "korean-warmth",
+    "name": "한국의 온기",
+    "category": "warm",
+    "categoryName": "밝고 따뜻한",
+    "number": "04",
+    "line": "익숙한 온기를, 오늘의 공간에.",
+    "description": "목재 격자의 섬세한 선과 자연 소재의 여백을 현대 주거에 담았습니다. 한국적인 정서를 일상의 편안함으로 이어가는 디자인입니다.",
+    "materials": [
+      "목재 격자",
+      "자연 질감 벽",
+      "밝은 원목"
+    ],
+    "colors": [
+      "#baa07c",
+      "#e8e1d3",
+      "#998772"
+    ]
+  },
+  {
+    "slug": "stone-balance",
+    "name": "단정한 균형",
+    "category": "modern",
+    "categoryName": "차분하고 단정한",
+    "number": "05",
+    "line": "단정한 선, 흔들림 없는 균형.",
+    "description": "회백색 석재와 정돈된 수납이 차분한 질서를 만듭니다. 재료의 결은 살리고 시각적인 소음은 덜어낸 현대적인 주거 공간입니다.",
+    "materials": [
+      "밝은 회색 석재",
+      "차분한 회베이지",
+      "결을 살린 금속"
+    ],
+    "colors": [
+      "#c9c9c5",
+      "#a9a7a1",
+      "#eeede8"
+    ]
+  },
+  {
+    "slug": "quiet-contrast",
+    "name": "고요한 대비",
+    "category": "modern",
+    "categoryName": "차분하고 단정한",
+    "number": "06",
+    "line": "선명한 대비 속에 머무는 고요.",
+    "description": "흰색과 검은색의 대비에 금속의 가벼운 빛을 더합니다. 간결한 형태와 세심한 비례가 공간의 인상을 또렷하게 만듭니다.",
+    "materials": [
+      "따뜻한 흰색",
+      "검은색 장식",
+      "크롬"
+    ],
+    "colors": [
+      "#eeeeea",
+      "#313332",
+      "#a4a6a5"
+    ]
+  },
+  {
+    "slug": "urban-greige",
+    "name": "도시의 여유",
+    "category": "modern",
+    "categoryName": "차분하고 단정한",
+    "number": "07",
+    "line": "도시의 일상에, 차분한 깊이.",
+    "description": "그레이와 베이지 사이의 섬세한 색감에 은은하게 어두운 유리를 조합했습니다. 빛과 시선이 겹쳐지며 여유로운 깊이를 만드는 공간입니다.",
+    "materials": [
+      "회베이지",
+      "은은하게 어두운 유리",
+      "차분한 색의 원목"
+    ],
+    "colors": [
+      "#b6afa3",
+      "#787670",
+      "#dedbd3"
+    ]
+  },
+  {
+    "slug": "walnut-suite",
+    "name": "깊은 쉼",
+    "category": "hotel",
+    "categoryName": "호텔 같은 휴식",
+    "number": "08",
+    "line": "하루의 끝에 만나는 깊은 안락함.",
+    "description": "풍부한 월넛의 결 위에 크림색 직물과 따뜻한 간접조명을 더합니다. 머무는 시간을 특별하게 만드는 호텔 같은 집입니다.",
+    "materials": [
+      "월넛",
+      "크림색 직물",
+      "따뜻한 간접조명"
+    ],
+    "colors": [
+      "#715440",
+      "#e6dccc",
+      "#b08b5f"
+    ]
+  },
+  {
+    "slug": "midnight-stone",
+    "name": "빛이 머무는 밤",
+    "category": "hotel",
+    "categoryName": "호텔 같은 휴식",
+    "number": "09",
+    "line": "짙은 소재 위로 번지는 빛.",
+    "description": "짙은 회색과 짙은 석재의 깊이를 조명으로 드러냅니다. 과장된 장식 대신 재료와 빛의 대비로 강렬한 인상을 완성합니다.",
+    "materials": [
+      "짙은 석재",
+      "짙은 회색",
+      "빛을 낮춘 금속"
+    ],
+    "colors": [
+      "#373835",
+      "#625d54",
+      "#bb9870"
+    ]
+  }
+]

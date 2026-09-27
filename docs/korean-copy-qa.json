@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "pages": [
+    {
+      "route": "/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/about/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/contact/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    },
+    {
+      "route": "/missing-page/",
+      "remainingEnglish": [],
+      "aiCopyFound": 0
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "pages": [
+    {
+      "route": "/",
+      "width": 1440,
+      "status": 200,
+      "title": "LT인테리어 | 당신의 취향을 담은 공간",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/",
+      "width": 1440,
+      "status": 200,
+      "title": "디자인 갤러리 | LT인테리어",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/about/",
+      "width": 1440,
+      "status": 200,
+      "title": "LT 소개 | LT인테리어",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/contact/",
+      "width": 1440,
+      "status": 200,
+      "title": "상담 안내 | LT인테리어",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 1440,
+      "status": 200,
+      "title": "햇살을 담은 집 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 1440,
+      "status": 200,
+      "title": "부드러운 여백 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 1440,
+      "status": 200,
+      "title": "포근한 일상 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 1440,
+      "status": 200,
+      "title": "한국의 온기 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 1440,
+      "status": 200,
+      "title": "단정한 균형 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 1440,
+      "status": 200,
+      "title": "고요한 대비 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 1440,
+      "status": 200,
+      "title": "도시의 여유 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 1440,
+      "status": 200,
+      "title": "깊은 쉼 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 1440,
+      "status": 200,
+      "title": "빛이 머무는 밤 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 1440,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/",
+      "width": 375,
+      "status": 200,
+      "title": "LT인테리어 | 당신의 취향을 담은 공간",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/",
+      "width": 375,
+      "status": 200,
+      "title": "디자인 갤러리 | LT인테리어",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/about/",
+      "width": 375,
+      "status": 200,
+      "title": "LT 소개 | LT인테리어",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/contact/",
+      "width": 375,
+      "status": 200,
+      "title": "상담 안내 | LT인테리어",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 375,
+      "status": 200,
+      "title": "햇살을 담은 집 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 375,
+      "status": 200,
+      "title": "부드러운 여백 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 375,
+      "status": 200,
+      "title": "포근한 일상 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 375,
+      "status": 200,
+      "title": "한국의 온기 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 375,
+      "status": 200,
+      "title": "단정한 균형 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 375,
+      "status": 200,
+      "title": "고요한 대비 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 375,
+      "status": 200,
+      "title": "도시의 여유 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 375,
+      "status": 200,
+      "title": "깊은 쉼 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 375,
+      "status": 200,
+      "title": "빛이 머무는 밤 | LT인테리어 디자인 콘셉트",
+      "scrollWidth": 375,
+      "broken": [],
+      "mainCount": 1,
+      "h1Count": 1
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "scrollWidth": 320
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "scrollWidth": 768
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "scrollWidth": 1024
+    }
+  ],
+  "interactions": [
+    {
+      "test": "gallery filter warm",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "test": "gallery filter modern",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "test": "gallery filter hotel",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "test": "gallery filter all",
+      "expected": 9,
+      "actual": 9,
+      "pass": true
+    },
+    {
+      "test": "mobile menu open",
+      "pass": true
+    },
+    {
+      "test": "Escape menu close",
+      "pass": true
+    },
+    {
+      "test": "404 page",
+      "pass": true
+    },
+    {
+      "test": "original video playback",
+      "pass": true,
+      "playing": true,
+      "duration": 5.033333,
+      "time": 1.044644
+    },
+    {
+      "test": "intentional video pause respected",
+      "pass": true
+    },
+    {
+      "test": "video segment seek",
+      "pass": true,
+      "time": 2.516666,
+      "duration": 5.033333
+    },
+    {
+      "test": "reduced motion video paused",
+      "pass": true
+    }
+  ],
+  "violations": [],
+  "errors": [],
+  "passed": true
+}

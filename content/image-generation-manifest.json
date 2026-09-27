@@ -1,0 +1,268 @@
+{
+  "mode": "built-in image_gen",
+  "spacePhotoCount": 28,
+  "logoCount": 1,
+  "assets": [
+    {
+      "key": "hero",
+      "file": "/images/hero.webp",
+      "thumbnail": null,
+      "width": 1672,
+      "height": 941,
+      "prompt": "Use case: photorealistic-natural. Asset type: premium Korean interior design website hero. Create a very wide landscape eye-level real architectural photograph of a beautiful contemporary Korean apartment living room connected to a fitted kitchen. Pale white oak floor and cabinetry, warm ivory plaster walls, soft cream sofa with realistically woven fabric, sophisticated light limestone island, quiet premium yet lived-in welcome, diffused warm afternoon daylight entering from glazing on the left. Plausible domestic apartment proportions, accurate construction, straight vertical lines, restrained styling. Composition for a large bottom-right hero image on a cobalt blue gradient website: the photograph remains natural and believable, with a thoughtful architectural contour and genuinely transparent alpha outside the outer architectural silhouette if feasible. No hard generic rectangular banner background. The interior must stay a real eye-level camera photograph, never isometric, dollhouse, miniature, 3D render or architectural model. No people, no text, no logos, no watermark. Wide 16:9 framing.",
+      "sha256": "d445f11f09d49a03c7fb1933e3184bc646acd6bf44f5224b0030852e5a286552"
+    },
+    {
+      "key": "lt-mark",
+      "file": "/images/lt-mark.webp",
+      "thumbnail": null,
+      "width": 1254,
+      "height": 1254,
+      "prompt": "Use case: logo-brand. Asset type: transparent website logo. Create one simple premium geometric monogram of capital L and T, legibly interlocking as confident architectural strokes. Pure solid black strokes on a genuinely transparent alpha background. Small-size legibility, carefully balanced proportions, understated interior architecture brand quality. Only the L and T monogram, centered with modest transparent padding. No additional wording, no border, no gradients, no shadows, no texture, no mockup, no colored background. Native clean raster logo asset with true transparency.",
+      "sha256": "95d8209718bd2b83877c4fe0de7d03b0a83c3d79999f79baa13a396394a562d8"
+    },
+    {
+      "key": "oak-light-living",
+      "file": "/images/oak-light-living.webp",
+      "thumbnail": "/images/oak-light-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept oak-light: white walls, pale white oak flooring and built-in cabinetry, abundant diffused daylight from the left, understated ivory furniture, warm minimal palette. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "e937c383f028838ed40265533615d2fbf2b09d9c2578e8c61d5b3a8648dd2bff"
+    },
+    {
+      "key": "stone-balance-living",
+      "file": "/images/stone-balance-living.webp",
+      "thumbnail": "/images/stone-balance-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept stone-balance: cool light gray stone floor and counters, greige cabinetry, architectural straight lines, clean concealed storage, warm off-white upholstery, clear soft daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "b2d8199ecbb9cab1c4be1c485bd02dd6bb1c81cafe77434d5abc86e7c40438a2"
+    },
+    {
+      "key": "walnut-suite-living",
+      "file": "/images/walnut-suite-living.webp",
+      "thumbnail": "/images/walnut-suite-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept walnut-suite: deep walnut flooring and built-in cabinetry, cream fabric, rich warm indirect architectural lighting combined with low late-afternoon light from the left, luxury suite quality within a plausible Korean apartment. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "29bb5e0ad7a0a8a0a68fa3c9e1b11b6484b356b08fbc3cefb0eac84f31c0ab8f"
+    },
+    {
+      "key": "oak-light-kitchen",
+      "file": "/images/oak-light-kitchen.webp",
+      "thumbnail": "/images/oak-light-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept oak-light: white walls, pale white oak flooring and built-in cabinetry, abundant diffused daylight from the left, understated ivory furniture, warm minimal palette. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "2da8b5cc8512a329db40e316c3eeedcf18be7a4f600835f28f215fc113bef3ad"
+    },
+    {
+      "key": "oak-light-bedroom",
+      "file": "/images/oak-light-bedroom.webp",
+      "thumbnail": "/images/oak-light-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept oak-light: white walls, pale white oak flooring and built-in cabinetry, abundant diffused daylight from the left, understated ivory furniture, warm minimal palette. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "08b8635eb3df2a0c21699a1514ee2131478ddf66c6ddc66ae4d4770154a9840b"
+    },
+    {
+      "key": "ivory-calm-living",
+      "file": "/images/ivory-calm-living.webp",
+      "thumbnail": "/images/ivory-calm-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept ivory-calm: ivory limestone and travertine, warm ivory matte cabinetry, light oak floor, rounded cream furnishings, calm diffuse daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete living scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "5799493478a9f2fd34476b056503a767aba1138071024112b1f79a3aa8da6645"
+    },
+    {
+      "key": "ivory-calm-kitchen",
+      "file": "/images/ivory-calm-kitchen.webp",
+      "thumbnail": "/images/ivory-calm-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept ivory-calm: ivory limestone and travertine, warm ivory matte cabinetry, light oak floor, rounded cream furnishings, calm diffuse daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "15eb1faaf43f8af8208f940df06296b49f4f8bd786458da753bebe554c6158e0"
+    },
+    {
+      "key": "ivory-calm-bedroom",
+      "file": "/images/ivory-calm-bedroom.webp",
+      "thumbnail": "/images/ivory-calm-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept ivory-calm: ivory limestone and travertine, warm ivory matte cabinetry, light oak floor, rounded cream furnishings, calm diffuse daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "3de8dc1a264e0ede88267189f94f26a628d8bb8fa562f5493591ee7fc1b31136"
+    },
+    {
+      "key": "linen-home-living",
+      "file": "/images/linen-home-living.webp",
+      "thumbnail": "/images/linen-home-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept linen-home: sand beige, real linen textures, warm light timber floor and cabinets, comfortable woven accents, gentle morning daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete living scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "bed99e70d1244b09772df0f414d47caefa8474f7a2fd3b6929ad30bce3a8e4fe"
+    },
+    {
+      "key": "linen-home-kitchen",
+      "file": "/images/linen-home-kitchen.webp",
+      "thumbnail": "/images/linen-home-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept linen-home: sand beige, real linen textures, warm light timber floor and cabinets, comfortable woven accents, gentle morning daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "8a3f933495844a98f61c3333979869f92b4a41c8c090fb4eaa6035280b44d986"
+    },
+    {
+      "key": "linen-home-bedroom",
+      "file": "/images/linen-home-bedroom.webp",
+      "thumbnail": "/images/linen-home-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept linen-home: sand beige, real linen textures, warm light timber floor and cabinets, comfortable woven accents, gentle morning daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "2fa9268c5b1fa2f9df196a87549b0eb4c43b6827218ef7ac4cd52f4135a1abbb"
+    },
+    {
+      "key": "korean-warmth-living",
+      "file": "/images/korean-warmth-living.webp",
+      "thumbnail": "/images/korean-warmth-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept korean-warmth: contemporary Korean apartment with subtle light oak lattice and screen details, light natural plaster, pale oak floor, refined modern furniture, diffuse morning light from the left; strictly contemporary apartment architecture, NOT historic hanok. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete living scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "9e9f8d06e3033a407b9d00c6e558f0ea268433e55749f394029988d6b0881628"
+    },
+    {
+      "key": "korean-warmth-kitchen",
+      "file": "/images/korean-warmth-kitchen.webp",
+      "thumbnail": "/images/korean-warmth-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept korean-warmth: contemporary Korean apartment with subtle light oak lattice and screen details, light natural plaster, pale oak floor, refined modern furniture, diffuse morning light from the left; strictly contemporary apartment architecture, NOT historic hanok. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "2105bee08aad2c0832c7babb7b1f4d3b69c0c9bd594f8aeb42e87961b51ae737"
+    },
+    {
+      "key": "korean-warmth-bedroom",
+      "file": "/images/korean-warmth-bedroom.webp",
+      "thumbnail": "/images/korean-warmth-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept korean-warmth: contemporary Korean apartment with subtle light oak lattice and screen details, light natural plaster, pale oak floor, refined modern furniture, diffuse morning light from the left; strictly contemporary apartment architecture, NOT historic hanok. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "a2db3d082370a2c93f6db6b3dd9d89e0d3c38d0198585fe4db8c962949f64938"
+    },
+    {
+      "key": "stone-balance-kitchen",
+      "file": "/images/stone-balance-kitchen.webp",
+      "thumbnail": "/images/stone-balance-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept stone-balance: cool light gray stone floor and counters, greige cabinetry, architectural straight lines, clean concealed storage, warm off-white upholstery, clear soft daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "db3b7625770609258f32e56f85215254a76a6bf4a9749665ef133cc88683fe42"
+    },
+    {
+      "key": "stone-balance-bedroom",
+      "file": "/images/stone-balance-bedroom.webp",
+      "thumbnail": "/images/stone-balance-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept stone-balance: cool light gray stone floor and counters, greige cabinetry, architectural straight lines, clean concealed storage, warm off-white upholstery, clear soft daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "a8d0cca8719ea9c7954dc0bdd88a4e04da84842ea22996b9c912870066bf9d83"
+    },
+    {
+      "key": "quiet-contrast-living",
+      "file": "/images/quiet-contrast-living.webp",
+      "thumbnail": "/images/quiet-contrast-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept quiet-contrast: off-white walls and cabinets with controlled black accents, chrome or brushed metal details, pale neutral timber floor, strong restrained contrast, soft crisp daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete living scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "b14aa3d6387f7f4cb3f633eb22485841176949fe148c8168850b2a969c7becc0"
+    },
+    {
+      "key": "quiet-contrast-kitchen",
+      "file": "/images/quiet-contrast-kitchen.webp",
+      "thumbnail": "/images/quiet-contrast-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept quiet-contrast: off-white walls and cabinets with controlled black accents, chrome or brushed metal details, pale neutral timber floor, strong restrained contrast, soft crisp daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "dd1a085b991a870019e232b8624f5c4e24b8e4bb21101e6b17c33d7c88ec63b9"
+    },
+    {
+      "key": "quiet-contrast-bedroom",
+      "file": "/images/quiet-contrast-bedroom.webp",
+      "thumbnail": "/images/quiet-contrast-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept quiet-contrast: off-white walls and cabinets with controlled black accents, chrome or brushed metal details, pale neutral timber floor, strong restrained contrast, soft crisp daylight from the left. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "004d0d5811990e557cb6c59502aa5083fcdf420d9eb8ad1eb8bfd37bb7122ff4"
+    },
+    {
+      "key": "urban-greige-living",
+      "file": "/images/urban-greige-living.webp",
+      "thumbnail": "/images/urban-greige-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept urban-greige: greige fitted cabinetry, smoked glass details, warm gray timber floor, neutral woven upholstery, gentle urban daylight from the left, understated refined architectural lines. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete living scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "bbd1e23ce5ab4d811278a4e438e23b45c20e7a9ba52b9a9b9a68bfef45d21850"
+    },
+    {
+      "key": "urban-greige-kitchen",
+      "file": "/images/urban-greige-kitchen.webp",
+      "thumbnail": "/images/urban-greige-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept urban-greige: greige fitted cabinetry, smoked glass details, warm gray timber floor, neutral woven upholstery, gentle urban daylight from the left, understated refined architectural lines. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "c5c7cf94edc51a66539aa04781ec08a6f7a7f0422ee8b1e86665af933dda71e1"
+    },
+    {
+      "key": "urban-greige-bedroom",
+      "file": "/images/urban-greige-bedroom.webp",
+      "thumbnail": "/images/urban-greige-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept urban-greige: greige fitted cabinetry, smoked glass details, warm gray timber floor, neutral woven upholstery, gentle urban daylight from the left, understated refined architectural lines. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "ca54ac83fc9f5ae458169a789bab382f8bbfdda492c38f6dbc8fae70b67009c4"
+    },
+    {
+      "key": "walnut-suite-kitchen",
+      "file": "/images/walnut-suite-kitchen.webp",
+      "thumbnail": "/images/walnut-suite-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept walnut-suite: deep walnut flooring and built-in cabinetry, cream fabric, rich warm indirect architectural lighting combined with low late-afternoon light from the left, luxury suite quality within a plausible Korean apartment. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "e7e8d3e80b6865a4e29751b38e5970201dd69298f57a010a94bc540002219790"
+    },
+    {
+      "key": "walnut-suite-bedroom",
+      "file": "/images/walnut-suite-bedroom.webp",
+      "thumbnail": "/images/walnut-suite-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept walnut-suite: deep walnut flooring and built-in cabinetry, cream fabric, rich warm indirect architectural lighting combined with low late-afternoon light from the left, luxury suite quality within a plausible Korean apartment. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "6a99e4ea406b4ecbcc4adb267bc6369d63f42a38d93a6bd5be3a5d2895f7acc7"
+    },
+    {
+      "key": "midnight-stone-living",
+      "file": "/images/midnight-stone-living.webp",
+      "thumbnail": "/images/midnight-stone-living-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a comfortable large sofa, low coffee table, subtle daily-life styling and floor-to-ceiling contemporary Korean apartment glazing, convincing distant residential view. Cohesive interior concept midnight-stone: charcoal and dark stone, deep warm-gray cabinets, warm dramatic indirect architectural light, smoked glass accents, dark oak floor, low dusk light from the left, spacious premium Korean apartment but NOT cavernous mansion. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete living scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "502ee692c4689ca8c99fd1324f112cd426b33e70382a14d97c312b147bf26c6d"
+    },
+    {
+      "key": "midnight-stone-kitchen",
+      "file": "/images/midnight-stone-kitchen.webp",
+      "thumbnail": "/images/midnight-stone-kitchen-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a full fitted practical contemporary Korean apartment kitchen, integrated refrigerator, credible sink and cooking zones, usable stone-topped island with clear working space, restrained everyday ceramics. Cohesive interior concept midnight-stone: charcoal and dark stone, deep warm-gray cabinets, warm dramatic indirect architectural light, smoked glass accents, dark oak floor, low dusk light from the left, spacious premium Korean apartment but NOT cavernous mansion. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete kitchen scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "be2d13ecb10e706ff5262aeb1c040bffd21dc76238a5fa47b65dbd5999504aaf"
+    },
+    {
+      "key": "midnight-stone-bedroom",
+      "file": "/images/midnight-stone-bedroom.webp",
+      "thumbnail": "/images/midnight-stone-bedroom-720.webp",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: photorealistic-natural. Asset type: Korean interior design portfolio space photograph. Create one premium but welcoming real architectural editorial photograph of a serene bedroom with a realistically sized beautiful double bed, tactile bedding and pillows, full-height fitted wardrobe, bedside lighting and a believable apartment window. Cohesive interior concept midnight-stone: charcoal and dark stone, deep warm-gray cabinets, warm dramatic indirect architectural light, smoked glass accents, dark oak floor, low dusk light from the left, spacious premium Korean apartment but NOT cavernous mansion. Style: convincing camera capture, beautifully resolved joinery and natural material grain, gently lived-in rather than sterile. Composition: landscape 3:2, wide eye-level interior photograph, perspective-correct vertical lines, natural 28mm lens feeling, strong central room composition suitable for wide display or careful portrait crop. Plausible domestic Korean apartment proportions and construction. Distinct complete bedroom scene. No people, no text, no logos, no watermark, no bathroom, no collage, no isometric, no illustration, no 3D-render look. Output a single full-frame photo, opaque background.",
+      "sha256": "31f273227f533342a1039dd3ce3c021f1d09d8ccb5a1f8bb03be6c7638166248"
+    }
+  ]
+}
