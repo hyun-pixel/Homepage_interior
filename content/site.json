@@ -3,6 +3,27 @@
   "brandEn": "LT INTERIOR",
   "phone": null,
   "kakaoUrl": null,
-  "videoUrl": "https://cdn.sceneai.art/Hero%20Section%20Video/adec243d-ffda-48cf-a8a8-26e6d6bcbe9b.mp4",
-  "region": "전국"
+  "region": "전국",
+  "videos": [
+    {
+      "name": "햇살이 드는 거실",
+      "src": "/videos/oak-light-living.mp4",
+      "poster": "/images/oak-light-living.webp"
+    },
+    {
+      "name": "오크 주방",
+      "src": "/videos/oak-light-kitchen.mp4",
+      "poster": "/images/oak-light-kitchen.webp"
+    },
+    {
+      "name": "차분한 침실",
+      "src": "/videos/oak-light-bedroom.mp4",
+      "poster": "/images/oak-light-bedroom.webp"
+    },
+    {
+      "name": "저녁의 거실",
+      "src": "/videos/walnut-suite-living.mp4",
+      "poster": "/images/walnut-suite-living.webp"
+    }
+  ]
 }

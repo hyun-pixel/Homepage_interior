@@ -1,0 +1,399 @@
+{
+  "tests": [
+    {
+      "name": "Initial muted living-room playback",
+      "pass": true,
+      "src": "http://127.0.0.1:4173/videos/oak-light-living.mp4",
+      "time": 0.2155,
+      "duration": 5.041667,
+      "paused": false,
+      "muted": true,
+      "poster": "http://127.0.0.1:4173/images/oak-light-living.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "Four different room files",
+      "pass": true,
+      "clips": [
+        {
+          "src": "/videos/oak-light-living.mp4",
+          "name": "햇살이 드는 거실"
+        },
+        {
+          "src": "/videos/oak-light-kitchen.mp4",
+          "name": "오크 주방"
+        },
+        {
+          "src": "/videos/oak-light-bedroom.mp4",
+          "name": "차분한 침실"
+        },
+        {
+          "src": "/videos/walnut-suite-living.mp4",
+          "name": "저녁의 거실"
+        }
+      ]
+    },
+    {
+      "name": "Manual pause stays paused",
+      "pass": true
+    },
+    {
+      "name": "Room selection preserves manual pause",
+      "pass": true,
+      "src": "http://127.0.0.1:4173/videos/oak-light-bedroom.mp4",
+      "time": 0,
+      "duration": 5.041667,
+      "paused": true,
+      "muted": true,
+      "poster": "http://127.0.0.1:4173/images/oak-light-bedroom.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "Resume selected room",
+      "pass": true
+    },
+    {
+      "name": "Room 0 decodes at 1080p",
+      "pass": true,
+      "src": "http://127.0.0.1:4173/videos/oak-light-living.mp4",
+      "time": 0.155634,
+      "duration": 5.041667,
+      "paused": false,
+      "muted": true,
+      "poster": "http://127.0.0.1:4173/images/oak-light-living.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "Room 1 decodes at 1080p",
+      "pass": true,
+      "src": "http://127.0.0.1:4173/videos/oak-light-kitchen.mp4",
+      "time": 0.15976,
+      "duration": 5.041667,
+      "paused": false,
+      "muted": true,
+      "poster": "http://127.0.0.1:4173/images/oak-light-kitchen.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "Room 2 decodes at 1080p",
+      "pass": true,
+      "src": "http://127.0.0.1:4173/videos/oak-light-bedroom.mp4",
+      "time": 0.158306,
+      "duration": 5.041667,
+      "paused": false,
+      "muted": true,
+      "poster": "http://127.0.0.1:4173/images/oak-light-bedroom.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "Room 3 decodes at 1080p",
+      "pass": true,
+      "src": "http://127.0.0.1:4173/videos/walnut-suite-living.mp4",
+      "time": 0.155753,
+      "duration": 5.041667,
+      "paused": false,
+      "muted": true,
+      "poster": "http://127.0.0.1:4173/images/walnut-suite-living.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "Rapid selection keeps the final room",
+      "pass": true
+    },
+    {
+      "name": "Automatic four-room cycle and wrap",
+      "pass": true,
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "name": "Hidden page pauses",
+      "pass": true
+    },
+    {
+      "name": "Visible page resumes unpaused intent",
+      "pass": true
+    },
+    {
+      "name": "Visibility change respects manual pause",
+      "pass": true
+    },
+    {
+      "name": "Home accessibility",
+      "pass": true,
+      "violations": []
+    },
+    {
+      "name": "Reduced motion starts paused",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion selection remains paused",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion explicit playback works",
+      "pass": true
+    },
+    {
+      "name": "Enabling reduced motion pauses playback",
+      "pass": true
+    },
+    {
+      "name": "Responsive home 320",
+      "pass": true,
+      "width": 320,
+      "scrollWidth": 320,
+      "buttons": [
+        {
+          "width": 47.5,
+          "label": "햇살이 드는 거실 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "오크 주방 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "차분한 침실 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "저녁의 거실 영상 보기"
+        }
+      ]
+    },
+    {
+      "name": "Responsive home 375",
+      "pass": true,
+      "width": 375,
+      "scrollWidth": 375,
+      "buttons": [
+        {
+          "width": 47.5,
+          "label": "햇살이 드는 거실 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "오크 주방 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "차분한 침실 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "저녁의 거실 영상 보기"
+        }
+      ]
+    },
+    {
+      "name": "Responsive home 768",
+      "pass": true,
+      "width": 768,
+      "scrollWidth": 768,
+      "buttons": [
+        {
+          "width": 51.5,
+          "label": "햇살이 드는 거실 영상 보기"
+        },
+        {
+          "width": 51.5,
+          "label": "오크 주방 영상 보기"
+        },
+        {
+          "width": 51.5,
+          "label": "차분한 침실 영상 보기"
+        },
+        {
+          "width": 51.5,
+          "label": "저녁의 거실 영상 보기"
+        }
+      ]
+    },
+    {
+      "name": "Responsive home 1440",
+      "pass": true,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "buttons": [
+        {
+          "width": 60.296875,
+          "label": "햇살이 드는 거실 영상 보기"
+        },
+        {
+          "width": 60.296875,
+          "label": "오크 주방 영상 보기"
+        },
+        {
+          "width": 60.296875,
+          "label": "차분한 침실 영상 보기"
+        },
+        {
+          "width": 60.296875,
+          "label": "저녁의 거실 영상 보기"
+        }
+      ]
+    },
+    {
+      "name": "Mobile menu opens",
+      "pass": true
+    },
+    {
+      "name": "Mobile menu closes with Escape",
+      "pass": true
+    },
+    {
+      "name": "Gallery filter warm",
+      "pass": true
+    },
+    {
+      "name": "Gallery filter modern",
+      "pass": true
+    },
+    {
+      "name": "Gallery filter hotel",
+      "pass": true
+    },
+    {
+      "name": "Gallery filter all",
+      "pass": true
+    },
+    {
+      "name": "Failed video shows fallback and room poster",
+      "pass": true
+    },
+    {
+      "name": "Other room recovers after file failure",
+      "pass": true
+    },
+    {
+      "name": "Blocked autoplay offers play control",
+      "pass": true
+    },
+    {
+      "name": "User can recover from blocked autoplay",
+      "pass": true
+    },
+    {
+      "name": "Video MIME type",
+      "pass": true
+    },
+    {
+      "name": "Byte-range playback support",
+      "pass": true
+    },
+    {
+      "name": "Invalid byte range returns 416",
+      "pass": true
+    },
+    {
+      "name": "No page JavaScript errors",
+      "pass": true,
+      "errors": []
+    }
+  ],
+  "errors": [],
+  "responsive": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "buttons": [
+        {
+          "width": 47.5,
+          "label": "햇살이 드는 거실 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "오크 주방 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "차분한 침실 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "저녁의 거실 영상 보기"
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "buttons": [
+        {
+          "width": 47.5,
+          "label": "햇살이 드는 거실 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "오크 주방 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "차분한 침실 영상 보기"
+        },
+        {
+          "width": 47.5,
+          "label": "저녁의 거실 영상 보기"
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "buttons": [
+        {
+          "width": 51.5,
+          "label": "햇살이 드는 거실 영상 보기"
+        },
+        {
+          "width": 51.5,
+          "label": "오크 주방 영상 보기"
+        },
+        {
+          "width": 51.5,
+          "label": "차분한 침실 영상 보기"
+        },
+        {
+          "width": 51.5,
+          "label": "저녁의 거실 영상 보기"
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "buttons": [
+        {
+          "width": 60.296875,
+          "label": "햇살이 드는 거실 영상 보기"
+        },
+        {
+          "width": 60.296875,
+          "label": "오크 주방 영상 보기"
+        },
+        {
+          "width": 60.296875,
+          "label": "차분한 침실 영상 보기"
+        },
+        {
+          "width": 60.296875,
+          "label": "저녁의 거실 영상 보기"
+        }
+      ]
+    }
+  ],
+  "passed": true
+}

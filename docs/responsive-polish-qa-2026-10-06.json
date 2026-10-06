@@ -1,0 +1,344 @@
+{
+  "accessibility": [
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/",
+      "violations": []
+    },
+    {
+      "route": "/about/",
+      "violations": []
+    },
+    {
+      "route": "/contact/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "violations": []
+    }
+  ],
+  "numberLayout": [
+    {
+      "width": 320,
+      "pass": true,
+      "numbers": [
+        {
+          "text": "01",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "02",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "03",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "04",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "05",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "06",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "pass": true,
+      "numbers": [
+        {
+          "text": "01",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "02",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "03",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "04",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "05",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        },
+        {
+          "text": "06",
+          "lines": 1,
+          "scroll": 45,
+          "client": 45
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "pass": true,
+      "numbers": [
+        {
+          "text": "01",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "02",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "03",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "04",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "05",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "06",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "pass": true,
+      "numbers": [
+        {
+          "text": "01",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "02",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "03",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "04",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "05",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "06",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "pass": true,
+      "numbers": [
+        {
+          "text": "01",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "02",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "03",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "04",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "05",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "06",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "pass": true,
+      "numbers": [
+        {
+          "text": "01",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "02",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "03",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "04",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "05",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        },
+        {
+          "text": "06",
+          "lines": 1,
+          "scroll": 50,
+          "client": 50
+        }
+      ]
+    }
+  ],
+  "touch": [
+    {
+      "name": "Touch menu opens",
+      "pass": true
+    },
+    {
+      "name": "Touch filter",
+      "pass": true
+    },
+    {
+      "name": "Horizontal gallery swipe",
+      "pass": true
+    },
+    {
+      "name": "Vertical swipe remains page scroll",
+      "pass": true
+    },
+    {
+      "name": "Landscape width",
+      "pass": true
+    }
+  ],
+  "keyboard": [
+    {
+      "name": "Skip link first",
+      "pass": true
+    },
+    {
+      "name": "Skip to main",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

@@ -19,36 +19,61 @@
   const toggle=document.querySelector(".video-toggle");
   const segments=[...document.querySelectorAll("[data-segment]")];
   const status=document.querySelector(".video-status");
+  let active=0;
   let userPaused=reduced.matches;
-  if(userPaused){video.autoplay=false;video.pause();}
-  const updateToggle=()=>{toggle.classList.toggle("is-paused",video.paused);toggle.setAttribute("aria-label",video.paused?"영상 재생":"영상 일시 정지");};
-  const play=async()=>{if(userPaused||document.hidden||video.error)return;try{await video.play();status.hidden=true;}catch{updateToggle();}};
-  const progress=()=>{
-   if(!Number.isFinite(video.duration)||video.duration<=0)return;
-   const active=Math.min(3,Math.floor((video.currentTime + 0.001)/video.duration*4));
-   segments.forEach((el,i)=>{el.classList.toggle("active",i===active);el.setAttribute("aria-pressed",String(i===active));});
+  let playBlocked=false;
+  const updateToggle=()=>{
+   const paused=userPaused||playBlocked||Boolean(video.error);
+   toggle.classList.toggle("is-paused",paused);
+   toggle.setAttribute("aria-label",paused?"영상 재생":"영상 일시 정지");
   };
-  toggle.addEventListener("click",async()=>{
-   if(!video.paused){userPaused=true;video.pause();}
-   else{userPaused=false;if(video.error)video.load();await play();}
+  const play=async()=>{
+   if(userPaused||document.hidden||video.error)return;
+   const source=video.src;
+   try{
+    await video.play();
+    if(source!==video.src)return;
+    playBlocked=false;status.hidden=true;updateToggle();
+   }catch(error){
+    if(source!==video.src||error.name==="AbortError")return;
+    playBlocked=true;updateToggle();
+   }
+  };
+  const select=index=>{
+   active=(index+segments.length)%segments.length;
+   const selected=segments[active];
+   segments.forEach((button,i)=>{
+    button.classList.toggle("active",i===active);
+    button.setAttribute("aria-pressed",String(i===active));
+   });
+   playBlocked=false;status.hidden=true;
+   video.poster=selected.dataset.poster;
+   video.setAttribute("aria-label",selected.dataset.name+" 공간 영상");
+   video.src=selected.dataset.src;
+   video.load();
+   updateToggle();play();
+  };
+  toggle.addEventListener("click",()=>{
+   if(userPaused||playBlocked||video.error){
+    userPaused=false;playBlocked=false;
+    if(video.error){status.hidden=true;video.load();}
+    play();
+   }else{userPaused=true;video.pause();}
    updateToggle();
   });
-  segments.forEach(el=>el.addEventListener("click",()=>{
-   if(!Number.isFinite(video.duration)||video.duration<=0)return;
-   video.currentTime=video.duration*Number(el.dataset.segment)/4;userPaused=false;play();progress();
-  }));
-  video.addEventListener("timeupdate",progress);
+  segments.forEach((button,index)=>button.addEventListener("click",()=>select(index)));
+  video.addEventListener("canplay",play);
   video.addEventListener("play",updateToggle);
-  video.addEventListener("pause",()=>{updateToggle();if(!userPaused)play();});
-  video.addEventListener("ended",play);
-  video.addEventListener("stalled",play);
-  video.addEventListener("loadedmetadata",()=>{progress();play();});
+  video.addEventListener("pause",updateToggle);
+  video.addEventListener("ended",()=>{if(!userPaused)select(active+1);});
   video.addEventListener("error",()=>{status.hidden=false;updateToggle();});
-  document.addEventListener("visibilitychange",()=>{if(!document.hidden)play();});
-  document.addEventListener("pointerdown",()=>{if(!userPaused)play();},{once:true});
-  reduced.addEventListener("change",e=>{if(e.matches){userPaused=true;video.pause();}});
-  setInterval(()=>{if(video.paused&&!userPaused&&!document.hidden&&video.readyState>=2)play();},1000);
-  updateToggle();
+  document.addEventListener("visibilitychange",()=>{
+   if(document.hidden)video.pause();else play();
+  });
+  reduced.addEventListener("change",event=>{
+   if(event.matches){userPaused=true;video.pause();updateToggle();}
+  });
+  updateToggle();play();
  }
  const filters=[...document.querySelectorAll("[data-filter]")];
  const cards=[...document.querySelectorAll("[data-category]")];

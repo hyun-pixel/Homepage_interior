@@ -1,0 +1,552 @@
+{
+  "phase": "final",
+  "pages": [
+    {
+      "route": "/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/about/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/contact/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 320,
+      "scrollWidth": 320,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/about/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/contact/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/about/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/contact/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 768,
+      "scrollWidth": 768,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/about/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/contact/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/about/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/contact/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/about/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/contact/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/oak-light/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/ivory-calm/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/linen-home/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/korean-warmth/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/stone-balance/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/quiet-contrast/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/urban-greige/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/walnut-suite/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    },
+    {
+      "route": "/gallery/midnight-stone/",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflows": [],
+      "smallControls": []
+    }
+  ],
+  "errors": []
+}

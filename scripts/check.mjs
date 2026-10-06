@@ -23,7 +23,27 @@ async function check(){
  const config=JSON.parse(await fs.readFile("content/site.json","utf8"));
  if(!config.phone)assert.ok(!contact.includes('href="tel:'));
  if(!config.kakaoUrl)assert.ok(contact.includes("연결 준비 중"));
+ const videoManifest=JSON.parse(await fs.readFile("content/video-generation-manifest.json","utf8"));
+ const {createHash}=await import("node:crypto");
+ assert.equal(config.videos.length,4,"Four separate room videos are required");
+ assert.equal(videoManifest.assets.length,4);
+ assert.equal(new Set(config.videos.map(clip=>clip.src)).size,4,"Room buttons must select different files");
+ const hashes=[];
+ for(const clip of config.videos){
+  assert.ok(clip.name&&clip.src.startsWith("/videos/")&&clip.poster.startsWith("/images/"));
+  const bytes=await fs.readFile("dist"+clip.src);
+  const hash=createHash("sha256").update(bytes).digest("hex");hashes.push(hash);
+  const asset=videoManifest.assets.find(asset=>asset.file===clip.src);
+  assert.ok(asset,"Missing video provenance: "+clip.src);
+  assert.equal(hash,asset.sha256);
+  assert.equal(asset.codec,"h264");
+  await fs.access("dist"+clip.poster);
+ }
+ assert.equal(new Set(hashes).size,4,"Room videos must have different contents");
+ const home=await fs.readFile("dist/index.html","utf8");
+ for(const clip of config.videos)assert.ok(home.includes('data-src="'+clip.src+'"'));
+ assert.ok(!home.includes("cdn.sceneai.art"));
  await fs.access("dist/404.html");
- console.log("PASS: 13 routes, 9 concepts (4/3/2), 28 photos + logo, unique assets, local links/anchors, heading structure, and contact pending states.");
+ console.log("PASS: 13 routes, 9 concepts (4/3/2), 28 photos + logo, unique assets, local links/anchors, heading structure, contact pending states, and 4 unique local room videos.");
 }
 await check();
